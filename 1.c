@@ -7,4 +7,5 @@ int main(){
     b=a-32;
     putchar(b);
     printf("\n");
+    return 0;
 }
