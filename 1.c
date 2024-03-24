@@ -7,7 +7,5 @@ int main(){
     b=a-32;
     putchar(b);
     printf("\n");
-    printf("按o,回车结束\n");
-    c=getchar();
     return 0;
 }
